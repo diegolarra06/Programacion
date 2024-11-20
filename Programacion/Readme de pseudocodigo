@@ -1,3 +1,21 @@
+Estructura básica para pseudocódigo
+Definir el objetivo del programa:
+
+¿Qué problema resuelve?
+¿Qué entrada necesita?
+¿Qué salida genera?
+Estructura general:
+
+¿Qué detalles necesito?
+Los pasos exactos del proceso.
+Cualquier entrada o restricción que el problema incluya.
+El objetivo o resultado esperado.
+
+Inicio: Declaración de variables principales.
+Procesos principales: Operaciones o cálculos necesarios.
+Condiciones: Decisiones basadas en "si", "sino" o "mientras".
+Finalización: Retorno o salida del resultado.
+
 Propósito del pseudocódigo
 El principal objetivo del pseudocódigo es ayudar a los desarrolladores a planificar y estructurar la lógica de un programa antes de escribir el código real.
 Al separar la lógica de la sintaxis del lenguaje de programación, el pseudocódigo permite a los programadores concentrarse en el diseño del algoritmo sin preocuparse por los detalles técnicos, 
@@ -24,7 +42,7 @@ MIENTRAS (condición)
 FIN_MIENTRAS
 Estas estructuras ayudan a simplificar la representación del programa y permiten que la lógica sea fácilmente entendida por cualquier persona que lea el pseudocódigo, sin importar su nivel de experiencia.
 
-Ejemplo sencillo de pseudocódigo
+Ejemplo sencillo de pseudocódigo.
 - Ejemplo de pseudocódigo básico:
 
 INICIO
