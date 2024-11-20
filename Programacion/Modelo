@@ -1,0 +1,9 @@
+. Definición del modelo
+Los modelos se encargan de representar la estructura de los datos. En este caso, se define una clase Persona que incluye las propiedades mencionadas.
+
+Estructura general para modelos:
+
+Propiedades privadas.
+Constructor para inicializar las propiedades.
+Métodos "getter" y "setter" para acceder y modificar las propiedades si es necesario.
+Un método toString() para representar el modelo como un texto legible.
