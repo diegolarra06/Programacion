@@ -1,0 +1,40 @@
+Propósito del pseudocódigo
+El principal objetivo del pseudocódigo es ayudar a los desarrolladores a planificar y estructurar la lógica de un programa antes de escribir el código real.
+Al separar la lógica de la sintaxis del lenguaje de programación, el pseudocódigo permite a los programadores concentrarse en el diseño del algoritmo sin preocuparse por los detalles técnicos, 
+lo que reduce el riesgo de cometer errores lógicos más adelante.
+
+Además, es una herramienta excelente para la comunicación entre programadores, ya que facilita que todos los miembros del equipo comprendan la lógica de un sistema antes de implementarlo.
+También es útil para los estudiantes de programación, ya que les permite practicar la resolución de problemas sin las complicaciones adicionales de un lenguaje específico.
+Uso de estructuras de control básicas
+El pseudocódigo utiliza una serie de estructuras de control básicas para representar la lógica de un programa, como los condicionales (si, sino) y los bucles (mientras, para).
+
+Estas estructuras son fundamentales para modelar cualquier algoritmo. Aquí tienes algunos ejemplos de cómo se representan en pseudocódigo:
+
+- Ejemplo de condicional:
+
+SI (condición)
+    realizar acción
+SINO
+    realizar otra acción
+FIN_SI
+- Ejemplo de bucle:
+
+MIENTRAS (condición)
+    realizar acción repetida
+FIN_MIENTRAS
+Estas estructuras ayudan a simplificar la representación del programa y permiten que la lógica sea fácilmente entendida por cualquier persona que lea el pseudocódigo, sin importar su nivel de experiencia.
+
+Ejemplo sencillo de pseudocódigo
+- Ejemplo de pseudocódigo básico:
+
+INICIO
+    LEER número1
+    LEER número2
+    SI número1 > número2 ENTONCES
+        IMPRIMIR "El número mayor es número1"
+    SINO
+        IMPRIMIR "El número mayor es número2"
+    FIN_SI
+FIN
+Este ejemplo muestra cómo el pseudocódigo sigue una estructura simple y clara, describiendo los pasos lógicos de manera comprensible sin depender de un lenguaje de programación específico.
+
